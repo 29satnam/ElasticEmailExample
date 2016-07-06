@@ -1,0 +1,6 @@
+framework module Pods_ElasticMail {
+  umbrella header "Pods-ElasticMail-umbrella.h"
+
+  export *
+  module * { export * }
+}
